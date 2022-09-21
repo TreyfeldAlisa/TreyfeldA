@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, TS**
 
-- 🤝 I’m looking for help with **new interesting job**
+- 🤝 I’m working at **NordClan**
 
 - 📫 How to reach me **alisa.tr@gmail.com**
 
